@@ -16,7 +16,8 @@ les types de données stockés dans Redis :
 - tableaux
 - listes
 
---
+---
+
 Les requetes disponible :
 - SET
 - GET
